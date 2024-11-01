@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Alignment"
+msgstr ""
+
+msgid "An error occurred while performing your search. Please try again later."
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Creating viewer..."
+msgstr ""
+
+msgid "Embed document"
+msgstr ""
+
+msgid "Embed eload24 ebook"
+msgstr ""
+
+msgid "Enter URL or click Browse to upload a file"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Invalid embed code parameters."
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Please enter a search term, such as %sWindows 7%s or %sOffice%s."
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Search ebooks"
+msgstr ""
+
+msgid "Search results"
+msgstr ""
+
+msgid "Show as"
+msgstr ""
+
+msgid "Something might be wrong with your Flash Player."
+msgstr ""
+
+msgid "Step 1: Pick a document to embed"
+msgstr ""
+
+msgid "Step 2: Embed your document"
+msgstr ""
+
+msgid "Successfully created."
+msgstr ""
+
+msgid "Text-only link"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title &amp; Thumbnail"
+msgstr ""
+
+msgid "TxtBear URL"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload document"
+msgstr ""
+
+msgid "Uploading %x of %y..."
+msgstr ""
+
+msgid "View document for free"
+msgstr ""
+
+msgid "View ebook for free"
+msgstr ""
+
+msgid "You do not have permission to embed ebooks."
+msgstr ""
+
+msgid "Your search term did not match any ebooks."
+msgstr ""
+
+msgid "bytes"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "eload24.com"
+msgstr ""
+
+msgid "kB"
+msgstr ""

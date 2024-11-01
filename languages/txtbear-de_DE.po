@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TxtBear 1.1.8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Klaus Neumann <klaus@eload24.com>\n"
+"Language-Team: Klaus Neumann, eload24 ag <klaus@eload24.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+msgid "An error occurred while performing your search. Please try again later."
+msgstr "Beim Suchen ist ein Fehler aufgetreten. Versuchen Sie es sp&auml;ter noch einmal."
+
+msgid "Browse..."
+msgstr "Durchsuchen..."
+
+msgid "Center"
+msgstr "Zentriert"
+
+msgid "Connecting..."
+msgstr "Verbinden..."
+
+msgid "Creating viewer..."
+msgstr "Viewer erstellen..."
+
+msgid "Embed document"
+msgstr "Dokument einbetten"
+
+msgid "Embed eload24 ebook"
+msgstr "eload24-eBook einbetten"
+
+msgid "Enter URL or click Browse to upload a file"
+msgstr "URL eingeben oder auf Durchsuchen klicken"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Insert"
+msgstr "Einf&uuml;gen"
+
+msgid "Invalid embed code parameters."
+msgstr "Ung&uuml;ltige Einbettecode-Parameter."
+
+msgid "Left"
+msgstr "Linksb&uuml;ndig"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Please enter a search term, such as %sWindows 7%s or %sOffice%s."
+msgstr "Bitte geben Sie einen Suchbegriff ein, wie z.B. %sWindows 7%s oder %sOffice%s."
+
+msgid "Previous"
+msgstr "Zur&uuml;ck"
+
+msgid "Privacy"
+msgstr "Datenschutz"
+
+msgid "Right"
+msgstr "Rechtsb&uuml;ndig"
+
+msgid "Search ebooks"
+msgstr "eBooks suchen"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid "Show as"
+msgstr "Anzeigen als"
+
+msgid "Something might be wrong with your Flash Player."
+msgstr "Scheinbar ist etwas mit Ihrem Flash Player nicht in Ordnung."
+
+msgid "Step 1: Pick a document to embed"
+msgstr "Schritt 1: Ein Dokument zum Einbetten w&auml;hlen"
+
+msgid "Step 2: Embed your document"
+msgstr "Schritt 2: Das Dokument einbetten"
+
+msgid "Successfully created."
+msgstr "Erfolgreich erstellt."
+
+msgid "Text-only link"
+msgstr "Nur-Text-Link"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Title &amp; Thumbnail"
+msgstr "Titel &amp; Vorschaubild"
+
+msgid "TxtBear URL"
+msgstr "TxtBear-URL"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "Upload document"
+msgstr "Dokument hochladen"
+
+msgid "Uploading %x of %y..."
+msgstr "%x von %y hochladen..."
+
+msgid "View document for free"
+msgstr "Dokument kostenlos anzeigen"
+
+msgid "View ebook for free"
+msgstr "eBook kostenlos anzeigen"
+
+msgid "You do not have permission to embed ebooks."
+msgstr "Sie haben keine Berechtigung, eBooks einzubetten."
+
+msgid "Your search term did not match any ebooks."
+msgstr "Keine passenden eBooks f&uuml;r Ihre Suchanfrage gefunden."
+
+msgid "bytes"
+msgstr "Bytes"
+
+msgid "default"
+msgstr "Standard"
+
+msgid "eload24.com"
+msgstr "eload24.com"
+
+msgid "kB"
+msgstr "kB"
+
